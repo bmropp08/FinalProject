@@ -1,7 +1,7 @@
 # FinalProject
 For this project, our group worked to solve, analyze, and visualize a problem using machine learning with the other technologies we’ve learned. 
 
-We will be taking real estate data to predict houseing values in a specific area.  
+We will be taking real estate data to predict houseing values in a specific area. After further exploration, it is apparant that there are many outliers that affect the predicatibility. Many different models, including linear regression, random tree, neural networks, and K nearest neighbors are investigated to parse through the dataset.  
 
 
 
