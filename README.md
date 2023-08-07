@@ -5,7 +5,6 @@ We will be taking real estate data to predict houseing values in a specific area
 
 
 
-
 Requirements and points:
 
 A Python script initializes, trains, and evaluates a model (10 points)
